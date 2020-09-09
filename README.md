@@ -91,6 +91,10 @@ Alternatively, you can include [Bourbon](https://github.com/thoughtbot/bourbon) 
 This plugin will only work with .scss format.
 
 ## Changelog
+* 1.3
+  * Updating PHP errors for PHP Version 7.4
+  * Updating some info as Cohen and ROI have done work on this plugin
+  * Setup new Github for WP-SCSS
 * 1.2.5
   * Fix error when ".*" folders exist [@chameron](https://github.com/ConnectThink/WP-SCSS/pull/111)
   * Add detailed error description for the directory settings [@andreyc0d3r](https://github.com/ConnectThink/WP-SCSS/pull/121)
